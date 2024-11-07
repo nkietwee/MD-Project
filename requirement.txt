@@ -1,0 +1,7 @@
+numpy==2.1.2
+notebook==7.2.2
+pandas==2.2.3
+opencv-python==4.10.0.84
+matplotlib==3.9.2
+pytesseract==0.3.13
+tesseract==0.1.3
